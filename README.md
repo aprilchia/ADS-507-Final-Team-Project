@@ -1,6 +1,6 @@
 # ADS-507-Final-Team-Project
 
-## Respository Content
+## Respository Contents Overview
 * [Jupyter Notebook](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/ADS_507_Final_Project.ipynb)
 * [Coaching_Staff.csv](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/Coaching_Staff.csv)
 * [Expenses.csv](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/Expenses.csv)
