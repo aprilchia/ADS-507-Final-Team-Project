@@ -8,6 +8,7 @@
   * [Coaching_Staff.csv](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/Coaching_Staff.csv): Annual head coach salary and head coach count for each sport.
   * [Expenses.csv](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/Expenses.csv): Amount spent on each sport per year, including coaches payroll, operating expenses, and recruiting expenses.
   * [Revenue.csv](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/Revenue.csv): Revenue of each sport and total revenue including expenses.
+  * [Tableau Workbook](https://github.com/aprilchia/ADS-507-Final-Team-Project/blob/main/Tableau.twbx): Graph created from the net profit output table.
 
 ## Pipeline Deployment
 ### Prerequisites
@@ -23,6 +24,7 @@
 4. Enter your personal MySQL username and password in code block #5 and #21.
 5. Allow the pipeline to run to completion.
 6. The output net_profit table can be viewed in the database.
+7. The [Tableau Workbook](https://github.com/aprilchia/ADS-507-Final-Team-Project/blob/main/Tableau.twbx) can be downloaded to generate a graph to visualize net profit.
 
 ## Pipeline Monitoring
 * Logging: INFO messages are incorporated to show successful steps. ERROR messages highlight issues and stops the execution of the pipeline to help diagnose the issue.
