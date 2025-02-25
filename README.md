@@ -3,7 +3,7 @@
 # College Sports Financial Data Pipeline
 
 ## Respository Contents Overview
-* [Updated Jupyter Notebook](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/ADS_507_Final_Project_Updated.ipynb) - to run the pipeline
+* [Jupyter Notebook](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/ADS_507_Final_Project.ipynb) - to run the pipeline
 * Raw CSV Files (sourced from Equity in Athletics Data Analysis [website](https://ope.ed.gov/athletics/#/)):
   * [Coaching_Staff.csv](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/Coaching_Staff.csv): Annual head coach salary and head coach count for each sport.
   * [Expenses.csv](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/Expenses.csv): Amount spent on each sport per year, including coaches payroll, operating expenses, and recruiting expenses.
@@ -17,7 +17,7 @@
 * Visual Studio Code (VSCode) with MySQL Tools
 
 ### Steps
-1. Download the [updated Jupyter Notebook](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/ADS_507_Final_Project_Updated.ipynb) file and the three raw CSV files.
+1. Download the [Jupyter Notebook](https://raw.githubusercontent.com/aprilchia/ADS-507-Final-Team-Project/refs/heads/main/ADS_507_Final_Project.ipynb) file and the three raw CSV files.
 2. Open VSCode and connect to your local MySQL server.
 3. Run the downloaded file in VSCode (which uses "localhost" for the server address and "3306" for the port).
 4. Enter your personal MySQL username and password in code block #5 and #21.
